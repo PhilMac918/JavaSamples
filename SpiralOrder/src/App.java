@@ -1,9 +1,9 @@
-package com.codility;
+//package com.codility;
 
 // you can also use imports, for example:
  import java.util.*;
 
-public class Solution {
+public class App {
 
     public static void main(String [] args) {
         // you can write to stdout for debugging purposes, e.g.
@@ -40,7 +40,7 @@ public class Solution {
         int inner[] = matrix[i];
         
         for (int j = 0; j < inner.length; j ++){
-            result.add(outer[j]);
+            //result.add(outer[j]);
         }
 
 
